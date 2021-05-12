@@ -81,7 +81,7 @@
     {
       "id": 1,
       "name": "Appetizer - Lobster Phyllo Roll",
-      "thumbnail": "/store-first-copy.png",
+      "thumbnail": "https://user-coffee.herokuapp.com/store/store-first-copy.png",
       "address": "Address: Hanoi 1",
       "description": "Quán Cafe số 1",
       "products": [
@@ -92,7 +92,7 @@
     {
       "id": 2,
       "name": "Leeks - Large",
-      "thumbnail": "/coffie-logo.png",
+      "thumbnail": "https://user-coffee.herokuapp.com/store/coffie-logo.png",
       "address": "Address: Hanoi 2",
       "description": "Quán Cafe số 2",
       "products": [
