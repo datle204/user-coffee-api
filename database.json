@@ -81,7 +81,7 @@
     {
       "id": 1,
       "name": "Appetizer - Lobster Phyllo Roll",
-      "thumbnail": "store-1.jpeg",
+      "thumbnail": "/store-1.jpeg",
       "address": "Address: Hanoi 1",
       "description": "Quán Cafe số 1",
       "products": [
@@ -92,7 +92,7 @@
     {
       "id": 2,
       "name": "Leeks - Large",
-      "thumbnail": "store-2.jpeg",
+      "thumbnail": "/store-2.jpeg",
       "address": "Address: Hanoi 2",
       "description": "Quán Cafe số 2",
       "products": [
@@ -103,7 +103,7 @@
     {
       "id": 3,
       "name": "Wiberg Cure",
-      "thumbnail": "store-3.jpeg",
+      "thumbnail": "/store-3.jpeg",
       "address": "Address: Hanoi 3",
       "description": "Quán Cafe số 3",
       "products": [
@@ -114,7 +114,7 @@
     {
       "id": 4,
       "name": "Bread - Dark Rye, Loaf",
-      "thumbnail": "store-4.jpeg",
+      "thumbnail": "/store-4.jpeg",
       "address": "Address: Hanoi 4",
       "description": "Quán Cafe số 4",
       "products": [
@@ -125,7 +125,7 @@
     {
       "id": 5,
       "name": "Coffee - Beans, Whole",
-      "thumbnail": "store-5.jpeg",
+      "thumbnail": "/store-5.jpeg",
       "address": "Address: Hanoi 5",
       "description": "Quán Cafe số 5",
       "products": [
@@ -136,7 +136,7 @@
     {
       "id": 6,
       "name": "Ginger - Fresh",
-      "thumbnail": "store-6.jpeg",
+      "thumbnail": "/store-6.jpeg",
       "address": "Address: Hanoi 6",
       "description": "Quán Cafe số 6",
       "products": [
