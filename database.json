@@ -1,0 +1,148 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Nanette MacDearmaid",
+      "email": "nmacdearmaid0@ucla.edu",
+      "password": "nmacdearmaid0",
+      "phone": "185-129-2326",
+      "birthday": "11/18/1995",
+      "gender": "Female",
+      "avatar": "https://robohash.org/faceresintblanditiis.bmp?size=150x150&set=set1"
+    },
+    {
+      "id": 2,
+      "name": "Chancey Di Maria",
+      "email": "cdi1@simplemachines.org",
+      "password": "simplemachines",
+      "phone": "462-441-6079",
+      "birthday": "4/4/2008",
+      "bio": "In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.\n\nSuspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.\n\nMaecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat.",
+      "gender": "Male",
+      "avatar": "https://robohash.org/modiinventoremolestias.png?size=150x150&set=set1"
+    },
+    {
+      "id": 3,
+      "name": "Catherine Waberer",
+      "email": "cwaberer2@umn.edu",
+      "password": "cwaberer2",
+      "phone": "652-951-9313",
+      "birthday": "12/2/2002",
+      "bio": "In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.",
+      "gender": "Female",
+      "avatar": "https://robohash.org/dolortemporibussoluta.png?size=150x150&set=set1"
+    },
+    {
+      "id": 4,
+      "name": "Bobbette Kenway",
+      "email": "bkenway3@wiley.com",
+      "password": "bkenway3",
+      "phone": "767-354-8928",
+      "birthday": "11/14/1995",
+      "bio": "In congue. Etiam justo. Etiam pretium iaculis justo.",
+      "gender": "Female",
+      "avatar": "https://robohash.org/abesselaudantium.jpg?size=150x150&set=set1"
+    },
+    {
+      "id": 5,
+      "name": "Goober Banting",
+      "email": "gbanting4@prweb.com",
+      "password": "gbanting4",
+      "phone": "563-471-5104",
+      "birthday": "9/22/1992",
+      "bio": "Nulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.",
+      "gender": "Male",
+      "avatar": "https://robohash.org/atqueearumquaerat.png?size=150x150&set=set1"
+    },
+    {
+      "id": 6,
+      "name": "Roana Clail",
+      "email": "rclail5@geocities.jp",
+      "password": "rclail5",
+      "phone": "952-408-0056",
+      "birthday": "5/13/1992",
+      "bio": "Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris.",
+      "gender": "Female",
+      "avatar": "https://robohash.org/voluptatelaborummodi.jpg?size=150x150&set=set1"
+    },
+    {
+      "id": 7,
+      "name": "Lindy Hubbard",
+      "email": "lhubbard6@networkadvertising.org",
+      "password": "lhubbard6",
+      "phone": "967-486-1276",
+      "birthday": "11/24/2006",
+      "bio": "Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus.\n\nPellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus.\n\nCum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.",
+      "gender": "Male",
+      "avatar": "https://robohash.org/doloresnatusaut.jpg?size=150x150&set=set1"
+    }
+  ],
+  "store": [
+    {
+      "id": 1,
+      "name": "Appetizer - Lobster Phyllo Roll",
+      "thumbnail": "/store-1.jpeg",
+      "address": "Address: Hanoi 1",
+      "description": "Quán Cafe số 1",
+      "products": [
+        { "id": 1, "productName": "Cafe 1", "price": 10},
+        { "id": 2, "productName": "Cafe 2", "price": 20}
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Leeks - Large",
+      "thumbnail": "store-2.jpeg",
+      "address": "Address: Hanoi 2",
+      "description": "Quán Cafe số 2",
+      "products": [
+        { "id": 3, "productName": "Cafe 3", "price": 10},
+        { "id": 4, "productName": "Cafe 4", "price": 20}
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Wiberg Cure",
+      "thumbnail": "store-3.jpeg",
+      "address": "Address: Hanoi 3",
+      "description": "Quán Cafe số 3",
+      "products": [
+        { "id": 5, "productName": "Cafe 5", "price": 10},
+        { "id": 6, "productName": "Cafe 6", "price": 20}
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Bread - Dark Rye, Loaf",
+      "thumbnail": "store-4.jpeg",
+      "address": "Address: Hanoi 4",
+      "description": "Quán Cafe số 4",
+      "products": [
+        { "id": 7, "productName": "Cafe 7", "price": 10},
+        { "id": 8, "productName": "Cafe 8", "price": 20}
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Coffee - Beans, Whole",
+      "thumbnail": "store-5.jpeg",
+      "address": "Address: Hanoi 5",
+      "description": "Quán Cafe số 5",
+      "products": [
+        { "id": 9, "productName": "Cafe 9", "price": 10},
+        { "id": 10, "productName": "Cafe 10", "price": 20}
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Ginger - Fresh",
+      "thumbnail": "store-6.jpeg",
+      "address": "Address: Hanoi 6",
+      "description": "Quán Cafe số 6",
+      "products": [
+        { "id": 11, "productName": "Cafe 11", "price": 10},
+        { "id": 12, "productName": "Cafe 12", "price": 20}
+      ]
+    }
+  ]
+}
