@@ -81,34 +81,64 @@
     {
       "id": 1,
       "name": "Appetizer - Lobster Phyllo Roll",
-      "thumbnail": "/ava.png",
+      "thumbnail": "/store-1.png",
       "address": "Address: Hanoi 1",
       "description": "Quán Cafe số 1",
       "products": [
-        { "id": 1, "productName": "Cafe 1", "price": 10},
-        { "id": 2, "productName": "Cafe 2", "price": 20}
+        {
+          "id": 1,
+          "productName": "Cafe 1",
+          "price": 10,
+          "product-image": "/sp-1.png"
+        },
+        {
+          "id": 2,
+          "productName": "Cafe 2",
+          "price": 20,
+          "product-image": "/sp-2.png"
+        }
       ]
     },
     {
       "id": 2,
       "name": "Leeks - Large",
-      "thumbnail": "/coffie-logo.png",
+      "thumbnail": "/store-2.png",
       "address": "Address: Hanoi 2",
       "description": "Quán Cafe số 2",
       "products": [
-        { "id": 3, "productName": "Cafe 3", "price": 10},
-        { "id": 4, "productName": "Cafe 4", "price": 20}
+        {
+          "id": 3,
+          "productName": "Cafe 3",
+          "price": 10,
+          "product-image": "/sp-3.png"
+        },
+        {
+          "id": 4,
+          "productName": "Cafe 4",
+          "price": 20,
+          "product-image": "/sp-4.png"
+        }
       ]
     },
     {
       "id": 3,
       "name": "Wiberg Cure",
-      "thumbnail": "/store-first.png",
+      "thumbnail": "/store-3.png",
       "address": "Address: Hanoi 3",
       "description": "Quán Cafe số 3",
       "products": [
-        { "id": 5, "productName": "Cafe 5", "price": 10},
-        { "id": 6, "productName": "Cafe 6", "price": 20}
+        {
+          "id": 5,
+          "productName": "Cafe 5",
+          "price": 10,
+          "product-image": "/sp-5.png"
+        },
+        {
+          "id": 6,
+          "productName": "Cafe 6",
+          "price": 20,
+          "product-image": "/sp-6.png"
+        }
       ]
     },
     {
@@ -118,8 +148,18 @@
       "address": "Address: Hanoi 4",
       "description": "Quán Cafe số 4",
       "products": [
-        { "id": 7, "productName": "Cafe 7", "price": 10},
-        { "id": 8, "productName": "Cafe 8", "price": 20}
+        {
+          "id": 7,
+          "productName": "Cafe 7",
+          "price": 10,
+          "product-image": "/sp-7.png"
+        },
+        {
+          "id": 8,
+          "productName": "Cafe 8",
+          "price": 20,
+          "product-image": "/sp-8.png"
+        }
       ]
     },
     {
@@ -129,8 +169,18 @@
       "address": "Address: Hanoi 5",
       "description": "Quán Cafe số 5",
       "products": [
-        { "id": 9, "productName": "Cafe 9", "price": 10},
-        { "id": 10, "productName": "Cafe 10", "price": 20}
+        {
+          "id": 9,
+          "productName": "Cafe 9",
+          "price": 10,
+          "product-image": "/sp-9.png"
+        },
+        {
+          "id": 10,
+          "productName": "Cafe 10",
+          "price": 20,
+          "product-image": "/sp-10.png"
+        }
       ]
     },
     {
@@ -140,8 +190,18 @@
       "address": "Address: Hanoi 6",
       "description": "Quán Cafe số 6",
       "products": [
-        { "id": 11, "productName": "Cafe 11", "price": 10},
-        { "id": 12, "productName": "Cafe 12", "price": 20}
+        {
+          "id": 11,
+          "productName": "Cafe 11",
+          "price": 10,
+          "product-image": "/sp-11.png"
+        },
+        {
+          "id": 12,
+          "productName": "Cafe 12",
+          "price": 20,
+          "product-image": "/sp-12.png"
+        }
       ]
     }
   ]
